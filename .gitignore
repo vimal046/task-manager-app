@@ -1,0 +1,22 @@
+# Node.js dependencies
+task-manager-frontend/node_modules/
+
+# Build output
+task-manager-frontend/build/
+task-manager-backend/target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.idea/
+.vscode/
+*.iml
+
+# Environment variables
+*.env
+application.properties

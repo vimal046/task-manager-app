@@ -1,0 +1,52 @@
+Task Manager App
+
+A simple and efficient  Task Management Application  where users can  add, view, edit, and delete  their tasks.  
+Built using  React  for the frontend,  Spring Boot  for the backend, and  MySQL  for data storage.
+
+Description
+
+This project allows users to manage their daily tasks in one place.  
+It provides full  CRUD  functionality with a clean, responsive UI and a secure backend API.
+
+Features
+
+-  Add a task
+-  View all tasks
+-  Edit a task
+-  Delete a task
+
+Tech Stack
+
+ Frontend: 
+- React
+- Axios
+- Tailwind CSS
+
+ Backend: 
+- Spring Boot
+- Spring Data JPA
+
+ Database: 
+- MySQL
+
+Project Structure
+
+    Backend (`task-manager-backend`)
+- [`src/main/java/com/task/manager/Task.java`]  
+- [`src/main/java/com/task/manager/TaskService.java`]  
+- [`src/main/java/com/task/manager/TaskController.java`]  
+- [`src/main/java/com/task/manager/TaskManagerBackendApplication.java`]  
+- [`src/main/java/com/task/manager/TaskRepository.java`]  
+
+    Frontend (`task-manager-frontend`)
+- [`src/component/TaskForm.jsx`]  
+- [`src/component/TaskList.jsx`]  
+- [`src/App.jsx`]  
+
+
+Screen shot:
+
+Author / Contact
+
+Vimal Suku
+GitHub: vimal046
