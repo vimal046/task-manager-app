@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Task Manager App
 
 A simple and efficient  Task Management Application  where users can  add, view, edit, and delete  their tasks.  
