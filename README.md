@@ -55,4 +55,3 @@ GitHub: vimal046
 =======
 # task-manager-app
 Full-stack Task Manager app with CRUD features. React frontend, Spring Boot REST API backend, and MySQL database.
->>>>>>> 3960878b83e58fc89e956a22d5fab3a49f7f71b0
