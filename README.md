@@ -47,6 +47,8 @@ Project Structure
 
 Screen shot:
 
+ ![Image Alt]([image_url](https://github.com/vimal046/task-manager-app/blob/4624ee2bba33b1ab7b18beb12c516d5685810ad9/task%20manager%20project%20screen-shot.jpg)).
+ 
 Author / Contact
 
 Vimal Suku
